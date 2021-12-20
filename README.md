@@ -12,7 +12,7 @@ Pengenalan Tulisan Tangan Digital Hanacaraka Menggunakan Convolutional Neural Ne
     └─── nga ( 510 gambar )
 ```
 
-## Model Arsitektur CNN
+## Arsitektur Model CNN
 
 ![Model Arsitektur CNN](images/cnn_architecture_model.svg)
 
