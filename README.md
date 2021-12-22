@@ -22,7 +22,7 @@ Pengenalan Tulisan Tangan Digital Hanacaraka Menggunakan Convolutional Neural Ne
 
 ## Video Penjelasan
 
-https://youtu.be/yWSgOIkhnNo
+[![](http://img.shields.io/badge/-YouTube-lightgrey?logo=youtube&style=flat&logoColor=white&color=FF0000)](https://youtu.be/yWSgOIkhnNo) 
 
 ## License
 
