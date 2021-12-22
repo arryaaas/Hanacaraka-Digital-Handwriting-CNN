@@ -4,6 +4,8 @@ Pengenalan Tulisan Tangan Digital Hanacaraka Menggunakan Convolutional Neural Ne
 
 ## Dataset
 
+Dataset [Hanacaraka](dataset.zip) didapat dari Muhammad Soleh, HPC Lab 1231 Fasilkom Universitas Indonesia.
+
 ```
 └─── hanacaraka
     |─── ha ( 510 gambar )
